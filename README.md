@@ -1,4 +1,4 @@
-<img src="https://github.com/NYJi/ML1_project/issues/1#issue-2552044520", width = "200", height="300"/>
+<img src = "https://github.com/NYJi/ML1_project/issues/1#issue-2552044520">
 ## __Background__
 - Plant disease is one of the causes of reducing crop yields. Korean melon also is decreasing because of plant disease. Thus, for solving this problems, we suggest the plant disease diagnosis model using machine learning.
 ![figure1](https://github.com/zangyook/korean_melon_disease_detection/assets/100524867/dcab6efb-21be-4db0-a47f-dc0e9e1a3e88)
