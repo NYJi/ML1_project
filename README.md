@@ -1,4 +1,4 @@
-## 📌BACKGRO
+## 📌BACKGROUND
 - Plant disease is one of the causes of reducing crop yields. Korean melon also is decreasing because of plant disease. Thus, for solving this problems, we suggest the plant disease diagnosis model using machine learning.
 
 <br>
